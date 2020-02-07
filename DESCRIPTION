@@ -11,17 +11,13 @@ VignetteBuilder: knitr
 Imports:
     dplyr,
     ggplot2,
-    Matrix,
     stringr,
-    reshape2,
     jsonlite,
-    countrycode,
     purrr,
     scales,
     tidyr
 Suggests:
     testthat,
     knitr,
-    survival,
     broom
 RoxygenNote: 6.1.1
